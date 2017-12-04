@@ -53,3 +53,46 @@ def compile_friends_dialogues():
             outputFile.write(eachDialog+'\n')
 
 #compile_friends_dialogues()
+
+def get_URLs_BBT_episodes():
+    # specify the starting URL
+    main_page = 'https://bigbangtrans.wordpress.com/'
+    main_source = urlopen(main_page)
+    main_soup = BeautifulSoup(main_source, 'html.parser')
+    all_episodes_urls = []
+    allLists = main_soup.find_all("li")
+    notAnEpisodeURL = 'https://bigbangtrans.wordpress.com/about/'
+    for eachItem in allLists:
+        a = eachItem.find('a')
+        eachURL =  a['href']
+        if(not eachURL == notAnEpisodeURL):
+            all_episodes_urls.append(eachURL)
+            # print(all_episodes_urls)
+    return all_episodes_urls;
+
+def extract_bbt_dialogues(episodeURL):
+    # query the website and return the html to the variable ‘page_source’
+    page_source = urlopen(episodeURL)
+    episode_soup = BeautifulSoup(page_source, 'html.parser')
+    episode_dialogues = []
+    lines=episode_soup.find_all("p")
+    for line in lines:
+        grabbed_text=str(line.text)
+        if(is_Dialog(grabbed_text)):
+            # replace \n with spaces
+            grabbed_text = grabbed_text.replace('\n', ' ')
+            episode_dialogues.append(grabbed_text)
+    #print(episode_dialogues)
+    return episode_dialogues;
+
+# get dialogues from all seasons and write to friends.txt
+def compile_bbt_dialogues():
+    outputFile = open('bigbangtheory.txt','w')
+    # get a list of all URLs
+    listURLs = get_URLs_BBT_episodes()
+    # get dialogues for each episode and write to a file
+    for eachURL in listURLs:
+        for eachDialog in extract_bbt_dialogues(eachURL):
+            outputFile.write(eachDialog+'\n')
+
+#compile_bbt_dialogues()
