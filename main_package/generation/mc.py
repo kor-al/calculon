@@ -6,11 +6,20 @@ import string
 from nltk.tokenize.moses import MosesDetokenizer, MosesTokenizer
 from gensim.summarization import keywords
 import RAKE #https://github.com/fabianvf/python-rake
+import random
 
 #train MC with POS - override classes of markovify
 import en_core_web_sm
 nlp = en_core_web_sm.load()
 class POSifiedText(markovify.Text):
+    def word_split(self, sentence):
+        return ["::".join((word.orth_, word.pos_)) for word in nlp(sentence)]
+
+    def word_join(self, words):
+        sentence = " ".join(word.split("::")[0] for word in words)
+        return sentence
+
+class POSifiedNewLineText(markovify.NewlineText):
     def word_split(self, sentence):
         return ["::".join((word.orth_, word.pos_)) for word in nlp(sentence)]
 
@@ -102,14 +111,46 @@ def extract_keywords(text, method = "gensim", ratio = 0.5):
             except:
                 method = 'nouns'
         elif method == "nouns":
-            print('>Nouns method')
+            #print('>Nouns method')
             nouns = []
             for word in nlp(text):
                 if word.pos_ == 'NOUN':
                     nouns.append(word.orth_)
             return nouns
 
+def select_kw(kwords, method):
+    """
+    Selects one keywords out from the list
+    :param kwords: list of keywords
+    :param method: method of extraction
+    :return: chosen keyword and its position
+    """
+    positions = ["start","middle","end"]
+    kw = random.choice(kwords)
+    if method!="nouns" and nlp(kw)[0].pos_ == "VERB":
+        pos = random.choice(positions[1:])
+    else:
+        pos = random.choice(positions)
+    return kw, pos
 
+def generate_line(prev_line, model,model_rev, method = "nouns"):
+    """
+    Generates new line from the previous one
+    :param prev_line: previous lMC reversed model of this character
+    :param method: method to extract keywords
+    :return: new line of the dialogue
+    """
+    detokenizer = MosesDetokenizer()
+    prev_line = detokenizer.detokenize(prev_line.split(" "), return_str=True)
+    kws = extract_keywords(prev_line, method=method)
+    while len(kws):
+        kw,pos = select_kw(kws, method)
+        try:
+            line = generate_mc(model, seed=kw, pos=pos, model_rev=model_rev)
+            return line
+        except:
+            kws = [w for w in kws if w!=kw]
+    return generate_mc(model, seed=None)
 
 
 ################
@@ -121,39 +162,32 @@ with open(file, 'r', encoding='utf8') as f:
 
 # And replace more than one subsequent whitespace chars with one space
 text = re.sub(r'\s+', ' ', file_raw)
-
+# Reversed test
 text_reversed = " ".join(text.split(" ")[::-1])
 
 #use text model of markovify
-text = clean_text(text)
-text_reversed = clean_text(text_reversed)
+#text = clean_text(text)
+#text_reversed = clean_text(text_reversed)
 
-text_model = markovify.Text(text, state_size=1)
-text_model_rev = markovify.Text(text_reversed, state_size=1)
-res = generate_mc(text_model, seed = "I", pos = "start", model_rev = text_model_rev)
-print(res)
-
-#use NewLine model of markovify
-#text = clean_text(text,True)
-#print(text)
-#text_reversed = clean_text(text_reversed,True)
-
-#text_model = markovify.NewlineText(' '.join(text), state_size=1)
-#text_model_rev = markovify.NewlineText(' '.join(text_reversed), state_size=1)
+#text_model = POSifiedText(text, state_size=1)
+#text_model_rev = POSifiedText(text_reversed, state_size=1)
 #res = generate_mc(text_model, seed = "I", pos = "start", model_rev = text_model_rev)
 #print(res)
 
-print("Keywords with Gensim method (if it fails, all nouns are extracted):")
-kws = extract_keywords(res, method = "gensim", ratio = 0.5)
-print(kws)
-print("Keywords with Rake method:")
-kws = extract_keywords(res, method = "rake")
-print(kws)
+#use NewLine model of markovify
+text = clean_text(text,True)
+text_reversed = clean_text(text_reversed,True)
 
+#Train MC models
+text_model = POSifiedNewLineText(' '.join(text), state_size=1)
+text_model_rev = POSifiedNewLineText(' '.join(text_reversed), state_size=1)
 
-# Print five randomly-generated sentences
-#for i in range(5):
-#    print(text_model.make_sentence())
+#Generate first line to start
+lineA = generate_mc(text_model, seed = "I", pos = "start", model_rev = text_model_rev)
+print(lineA)
 
-#for i in range(3):
-#    print(text_model.make_short_sentence(140))
+#Generate answer
+print("Generated answer:")
+lineB = generate_line(lineA, text_model,text_model_rev, method = "nouns")
+print(lineB)
+
