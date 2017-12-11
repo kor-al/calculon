@@ -12,12 +12,12 @@ class GenerativeModel(object, brain_name):
     brain = None
     brain_questions = None
     question_prob = 0.3
-    similarity_min = 0.7
+    similarity_min = 0.6
 
     def train(self, corpus, corpus_questions = None):
-        self._learn_corpus(corpus)
+        self.brain = self._learn_corpus(corpus, self.brain_name)
         if corpus_questions:
-            self._learn_corpus(corpus_questions)
+            self.brain_questions = self._learn_corpus(corpus_questions, self.brain_questions_name)
         return self
 
     def generate_start(self):
@@ -36,12 +36,13 @@ class GenerativeModel(object, brain_name):
             if new_line and get_cosine(text_to_vector(context), text_to_vector(new_line)) > self.similarity_min:
                 return new_line
 
-    def _learn_corpus(self, text):
-        self.brain = Brain(self.brain_name)
-        if not os.path.isfile(self.brain_name):
+    def _learn_corpus(self,text,brain_name):
+        brain = Brain(brain_name)
+        if not os.path.isfile(brain_name):
             print("- Training...")
             for sent in text:
-                self.brain.learn(sent)
+                brain.learn(sent)
+        return brain
 
     # cosine is calculated using
     # https://stackoverflow.com/questions/15173225/how-to-calculate-cosine-similarity-given-2-sentence-strings-python
