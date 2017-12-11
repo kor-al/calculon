@@ -7,8 +7,11 @@ from nltk.tokenize.moses import MosesDetokenizer, MosesTokenizer
 import math
 from collections import Counter
 import random
+<<<<<<< HEAD
+=======
 import language_check
 import os.path
+>>>>>>> 1e98fa2be4c77b804681b6468ee412ab469d4c7b
 
 def read_file(file):
     print("- Reading file ", file)
@@ -150,10 +153,13 @@ bqA = learn_text(questionsA, "cobeA_q.brain")
 bB  = learn_text(textB,"cobeB.brain")
 bqB = learn_text(questionsB, "cobeB_q.brain")
 
+<<<<<<< HEAD
 dialog = generate_dialog(bA, bqA, bB, bqB)
 print_dialog(dialog)
-
+"""
+=======
 for i in range(0,5):
     dialog = generate_dialog(bA, bqA, bB, bqB)
     print_dialog(dialog)
-"""
+    
+>>>>>>> 1e98fa2be4c77b804681b6468ee412ab469d4c7b
