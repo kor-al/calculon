@@ -1,13 +1,12 @@
-from cobe.brain import Brain
+import re
 import math
 import random
-from collections import Counter
 import os.path
-
+from collections import Counter
+from cobe.brain import Brain
 
 class GenerativeModel(object):
     """ Abstract class for a generative model for text """
-    
     def __init__(self, brain_name):
         self.brain_name = brain_name + ".brain"
         self.brain_questions_name = brain_name + "_questions.brain"
@@ -30,13 +29,15 @@ class GenerativeModel(object):
     def generate(self, context):
         u = random.random()
         while True:
-            if brain_questions and u < self.question_prob:
+            print("- Generating response to '%s'" % context)
+            if self.brain_questions and u < self.question_prob:
                 new_line = self.brain_questions.reply(context)
             else:
                 new_line = self.brain.reply(context)
 
-            if new_line and get_cosine(text_to_vector(context), text_to_vector(new_line)) > self.similarity_min:
-                return new_line
+            #it gets stuck, trying without this condition
+            #if new_line and get_cosine(text_to_vector(context), text_to_vector(new_line)) > self.similarity_min:
+            return new_line
 
     def _learn_corpus(self,text,brain_name):
         brain = Brain(brain_name)

@@ -8,7 +8,6 @@ import math
 from collections import Counter
 import random
 
-
 def read_file(file):
     print("- Reading file ", file)
     file_raw = None
@@ -115,6 +114,7 @@ def print_dialog(dialog):
     for line in dialog:
         print(line)
 
+"""
 textA_raw = read_file('sheldon.txt')
 textB_raw = read_file('dr.house.txt')
 
@@ -133,3 +133,4 @@ learn_text(questionsB, bqB)
 
 dialog = generate_dialog(bA, bqA, bB, bqB)
 print_dialog(dialog)
+"""

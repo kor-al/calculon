@@ -9,8 +9,9 @@ import numpy as np
 import gensim
 
 class DialogEvaluator:
-    def __init__(self, word_model='google-w2v.bin'):
+    def __init__(self, word_model='./evaluation/google-w2v.bin'):
         """ Load Google's slim word2vec model """
+        print("- Loading Google's Word2Vec model")
         self._word_model = gensim.models.KeyedVectors.load_word2vec_format(word_model, binary=True)
         self._word_vectors = self._word_model.wv
 
