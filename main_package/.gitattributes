@@ -1,2 +1,6 @@
 house.brain filter=lfs diff=lfs merge=lfs -text
 sheldon.brain filter=lfs diff=lfs merge=lfs -text
+house_questions.brain-journal filter=lfs diff=lfs merge=lfs -text
+sheldon.brain-journal filter=lfs diff=lfs merge=lfs -text
+sheldon_questions.brain-journal filter=lfs diff=lfs merge=lfs -text
+house.brain-journal filter=lfs diff=lfs merge=lfs -text
