@@ -2,6 +2,7 @@ import random
 from operator import itemgetter
 from evaluation.evaluation import DialogEvaluator
 from generation.generator import GenerativeModel
+from generation.generator_markovify import GenerativeModelMarkovify
 from generation.cobe_generate import read_file, clean_text
 
 class Calculon:
@@ -57,7 +58,12 @@ def main():
     calculon.add_model(GenerativeModel("sheldon").train(SHELDON))
     calculon.add_model(GenerativeModel("house").train(HOUSE))
 
+    #calculon.add_model(GenerativeModelMarkovify("sheldon").train(SHELDON))
+    #calculon.add_model(GenerativeModelMarkovify("house").train(HOUSE))
+
     dialog = calculon.generate("sheldon", "house", length=10, tries=20)
+
+    print('\n')
     print(dialog)
 
 

@@ -5,6 +5,7 @@ import os.path
 from collections import Counter
 from cobe.brain import Brain
 from generation.cobe_generate import clean_text, read_file
+from nltk.corpus import stopwords
 
 class GenerativeModel(object):
     """ Abstract class for a generative model for text """
@@ -15,7 +16,7 @@ class GenerativeModel(object):
         self.brain = None
         self.brain_questions = None
         self.question_prob = 0.3
-        self.similarity_min = 0.6
+        self.similarity_min = 0.1
 
     @property
     def name(self):
@@ -41,6 +42,7 @@ class GenerativeModel(object):
 
             #it gets stuck, trying without this condition
             #if new_line and get_cosine(text_to_vector(context), text_to_vector(new_line)) > self.similarity_min:
+            #    return new_line
             return new_line
 
     def _learn_corpus(self, corpus_file, brain_name, questions=False):
@@ -70,7 +72,14 @@ def get_cosine(vec1, vec2):
     else:
         return float(numerator) / denominator
 
-def text_to_vector(text):
+def text_to_vector(text, use_stopwords = False):
     WORD = re.compile(r'\w+')
-    words = WORD.findall(text)
+    if use_stopwords:
+        more_stopwords = list(stopwords.words('english')) + ['get', 'do', 'don', 'of', 'about', 'i', 'you', 'this',
+                                                             'that', 'those', 'these', 'well', 'sure', 'such', 'would',
+                                                             'we', 'did', 'ah', 'oh', 'well', 'how', 'what', 'when',
+                                                             'done', 'shall', 'all']
+        words = [w for w in WORD.findall(text) if w.lower() not in more_stopwords]
+    else:
+        words = WORD.findall(text)
     return Counter(words)
