@@ -4,10 +4,12 @@ import random
 import os.path
 from collections import Counter
 from cobe.brain import Brain
+from generation.cobe_generate import clean_text, read_file
 
 class GenerativeModel(object):
     """ Abstract class for a generative model for text """
     def __init__(self, brain_name):
+        self._model_name = brain_name
         self.brain_name = brain_name + ".brain"
         self.brain_questions_name = brain_name + "_questions.brain"
         self.brain = None
@@ -15,7 +17,11 @@ class GenerativeModel(object):
         self.question_prob = 0.3
         self.similarity_min = 0.6
 
-    def train(self, corpus, corpus_questions = None):
+    @property
+    def name(self):
+        return self._model_name
+
+    def train(self, corpus, corpus_questions=None):
         self.brain = self._learn_corpus(corpus, self.brain_name)
         if corpus_questions:
             self.brain_questions = self._learn_corpus(corpus_questions, self.brain_questions_name)
@@ -39,12 +45,16 @@ class GenerativeModel(object):
             #if new_line and get_cosine(text_to_vector(context), text_to_vector(new_line)) > self.similarity_min:
             return new_line
 
-    def _learn_corpus(self,text,brain_name):
+    def _learn_corpus(self, corpus_file, brain_name):
         if not os.path.isfile(brain_name):
             brain = Brain(brain_name)
             print("- Training...")
-            for sent in text:
+            corpus = read_file(corpus_file)
+            corpus = clean_text(corpus)
+
+            for sent in corpus:
                 brain.learn(sent)
+
         return Brain(brain_name)
 
     # cosine is calculated using

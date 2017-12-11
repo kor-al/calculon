@@ -10,9 +10,9 @@ class Calculon:
         print("- Initiating DialogEvaluator")
         self._evaluator = DialogEvaluator()
 
-    def add_model(self, name, model):
-        print("- Adding model %s" % name)
-        self._models[name] = model
+    def add_model(self, model):
+        print("- Adding model %s" % model.name)
+        self._models[model.name] = model
 
     def generate(self, name1, name2, length=10, context_length=4, tries=20):
         print("- Generating dialog")
@@ -44,14 +44,12 @@ class Calculon:
 
 
 def main():
-    sheldon_corpus = read_file("./data_scraping_subpackage/sheldon.txt")
-    sheldon_corpus = clean_text(sheldon_corpus)
-    house_corpus = read_file("./data_scraping_subpackage/house.txt")
-    house_corpus = clean_text(house_corpus)
+    SHELDON = './data_scraping_subpackage/sheldon.txt'
+    HOUSE = './data_scraping_subpackage/house.txt'
 
     calculon = Calculon()
-    calculon.add_model("sheldon", GenerativeModel("sheldon").train(sheldon_corpus))
-    calculon.add_model("house", GenerativeModel("house").train(house_corpus))
+    calculon.add_model(GenerativeModel("sheldon").train(SHELDON))
+    calculon.add_model(GenerativeModel("house").train(HOUSE))
 
     dialog = calculon.generate("sheldon", "house", length=10, tries=20)
     print(dialog)
