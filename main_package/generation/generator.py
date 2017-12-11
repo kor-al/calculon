@@ -40,12 +40,12 @@ class GenerativeModel(object):
             return new_line
 
     def _learn_corpus(self,text,brain_name):
-        brain = Brain(brain_name)
         if not os.path.isfile(brain_name):
+            brain = Brain(brain_name)
             print("- Training...")
             for sent in text:
                 brain.learn(sent)
-        return brain
+        return Brain(brain_name)
 
     # cosine is calculated using
     # https://stackoverflow.com/questions/15173225/how-to-calculate-cosine-similarity-given-2-sentence-strings-python
