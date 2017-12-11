@@ -7,7 +7,8 @@ from nltk.tokenize.moses import MosesDetokenizer, MosesTokenizer
 import math
 from collections import Counter
 import random
-
+import language_check
+import os.path
 
 def read_file(file):
     print("- Reading file ", file)
@@ -31,6 +32,9 @@ def sanitize(token_list):
     #words, numbers, words with an apostrophes and dashes
     return [token for token in token_list if (is_word.match(token) and token not in '_"') or token in '.?!-:,']# + ['.']    
 
+def delete_parenthesis(text):
+    return '\n'.join([re.sub("[\(\[].*?[\)\]]", "", s) for s in  text.split('\n')])
+
 def clean_text(raw_text, get_questions = False):
     """
     Words consist of letters or numbers
@@ -38,6 +42,8 @@ def clean_text(raw_text, get_questions = False):
     :return: list of sanitized sentences
     """
     # Tokenize text into sentences.
+    raw_text = delete_parenthesis(raw_text)
+
     sentences = nltk.sent_tokenize(raw_text)
 
     #Tokenize each sentence
@@ -47,18 +53,20 @@ def clean_text(raw_text, get_questions = False):
         tokenizer = MosesTokenizer()
         s_tokens = tokenizer.tokenize(s)
         #s_tokens = nltk.word_tokenize(s)
-        if not get_questions or (get_questions and s_tokens[-1] == '?'):
-                  sanitized_sentences.append(sanitize(s_tokens))
+        if (not get_questions and s_tokens[-1]!='?') or (get_questions and s_tokens[-1] == '?'):
+            sanitized_sentences.append(sanitize(s_tokens))
 
     #Sanitized tokens joined using detokenizer
     detokenizer = MosesDetokenizer()
     return [detokenizer.detokenize(s, return_str=True) for s in sanitized_sentences]
-    #return ["".join([" "+i if not i.startswith("'") and i not in ['\'','n\'t'] else i for i in s]).strip() for s in sanitized_sentences]
 
-def learn_text(text, brain):
-    print("- Training ", text)
-    for sent in text:
-        brain.learn(sent)
+def learn_text(text, brain_name):
+    brain = Brain(brain_name)
+    if not os.path.isfile(brain_name):
+        print("- Training...")
+        for sent in text:
+            brain.learn(sent)
+    return brain
 
 
 #cosine is calculated using
@@ -89,19 +97,20 @@ def generate_line(prev_line, brain, similarity = 0.8):
             return new_line
 
 """
-def generate_line(prev_line, brain, brain_questions, question_prob = 0.2, similarity = 0.8):
+def generate_line(prev_line, brain, brain_questions, question_prob = 0.2, similarity = 0.3):
     new_line = None
+    u = random.random()
     while True:
-        u = random.random()
         if u<question_prob:
             new_line = brain_questions.reply(prev_line)
         else:
             new_line = brain.reply(prev_line)
             
-        if new_line and get_cosine(text_to_vector(prev_line),text_to_vector(new_line))<similarity:
+        if new_line and get_cosine(text_to_vector(prev_line),text_to_vector(new_line))>similarity and check_grammar(new_line):
             return new_line
 
 def generate_dialog(brainA, brainA_questions, brainB, brainB_questions, lenght = 10):
+    print('Generating a dialog...')
     dialog = []
     lineB = "Hello!"
     while len(dialog)<10:
@@ -110,6 +119,15 @@ def generate_dialog(brainA, brainA_questions, brainB, brainB_questions, lenght =
          dialog.append(lineA)
          dialog.append(lineB)
     return dialog
+
+def check_grammar(line, max_errors = 2):
+    tool = language_check.LanguageTool('en-US')
+    matches = tool.check(line)
+    if len(matches) > max_errors:
+        return False
+    else:
+        return True
+
 
 def print_dialog(dialog):
     for line in dialog:
@@ -120,16 +138,18 @@ textB_raw = read_file('dr.house.txt')
 
 textA = clean_text(textA_raw)
 textB = clean_text(textB_raw)
+
+
 questionsA = clean_text(textA_raw, get_questions = True)
 questionsB = clean_text(textB_raw, get_questions = True)
 
-bA,bqA = Brain("cobeA.brain"), Brain("cobeA_q.brain")
-learn_text(textA, bA)
-learn_text(questionsA, bqA)
+bA = learn_text(textA, "cobeA.brain")
+bqA = learn_text(questionsA, "cobeA_q.brain")
 
-bB,bqB = Brain("cobeB.brain"), Brain("cobeB_q.brain")
-learn_text(textB, bB)
-learn_text(questionsB, bqB)
+bB  = learn_text(textB,"cobeB.brain")
+bqB = learn_text(questionsB, "cobeB_q.brain")
 
-dialog = generate_dialog(bA, bqA, bB, bqB)
-print_dialog(dialog)
+for i in range(0,5):
+    dialog = generate_dialog(bA, bqA, bB, bqB)
+    print_dialog(dialog)
+    
