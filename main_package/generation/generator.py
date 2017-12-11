@@ -21,10 +21,9 @@ class GenerativeModel(object):
     def name(self):
         return self._model_name
 
-    def train(self, corpus, corpus_questions=None):
-        self.brain = self._learn_corpus(corpus, self.brain_name)
-        if corpus_questions:
-            self.brain_questions = self._learn_corpus(corpus_questions, self.brain_questions_name)
+    def train(self, corpus):
+        self.brain_questions = self._learn_corpus(corpus, self.brain_questions_name, questions=True)
+        self.brain = self._learn_corpus(corpus, self.brain_name, questions=False)
         return self
 
     def generate_start(self):
@@ -35,7 +34,6 @@ class GenerativeModel(object):
     def generate(self, context):
         u = random.random()
         while True:
-            print("- Generating response to '%s'" % context)
             if self.brain_questions and u < self.question_prob:
                 new_line = self.brain_questions.reply(context)
             else:
@@ -45,12 +43,12 @@ class GenerativeModel(object):
             #if new_line and get_cosine(text_to_vector(context), text_to_vector(new_line)) > self.similarity_min:
             return new_line
 
-    def _learn_corpus(self, corpus_file, brain_name):
+    def _learn_corpus(self, corpus_file, brain_name, questions=False):
         if not os.path.isfile(brain_name):
             brain = Brain(brain_name)
             print("- Training...")
             corpus = read_file(corpus_file)
-            corpus = clean_text(corpus)
+            corpus = clean_text(corpus, get_questions=questions)
 
             for sent in corpus:
                 brain.learn(sent)

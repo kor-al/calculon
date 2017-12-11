@@ -1,3 +1,4 @@
+import random
 from operator import itemgetter
 from evaluation.evaluation import DialogEvaluator
 from generation.generator import GenerativeModel
@@ -14,7 +15,7 @@ class Calculon:
         print("- Adding model %s" % model.name)
         self._models[model.name] = model
 
-    def generate(self, name1, name2, length=10, context_length=4, tries=20):
+    def generate(self, name1, name2, length=10, context_length=4, tries=20, n=0.4):
         print("- Generating dialog")
         characters = [self._models[name1], self._models[name2]]
         current = 0
@@ -32,20 +33,25 @@ class Calculon:
                 # sentence evaluation
                 accepted, score = self._evaluator.evaluate(previous_sentences, response)
                 while not accepted: # keep going until a good response is found
+                    response = characters[current].generate(dialog[-1])
                     accepted, score = self._evaluator.evaluate(previous_sentences, response)
                 generated.append((response, score)) # save the response and its score
+                print("\t- Candidate: %s  ->  %f" % (response, score))
 
             # Sort the generated responses based on their score
-            generated = sorted(generated, key=itemgetter(1))
-            dialog.append(generated[-1][0])
+            end = int(max(1, len(generated)*n))
+            generated = sorted(generated, key=itemgetter(1), reverse=True)
+            generated = generated[:end]
+            dialog.append(random.choice(generated)[0])
             current = (current + 1) % 2
+            print(dialog[-1])
 
         return '\n'.join(dialog)
 
 
 def main():
     SHELDON = './data_scraping_subpackage/sheldon.txt'
-    HOUSE = './data_scraping_subpackage/house.txt'
+    HOUSE = './data_scraping_subpackage/dr.house.txt'
 
     calculon = Calculon()
     calculon.add_model(GenerativeModel("sheldon").train(SHELDON))

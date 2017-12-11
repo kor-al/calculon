@@ -42,6 +42,8 @@ class DialogEvaluator:
         for word in word_tokenize(sentence):
             if word in stopwords.words('english') + list(punctuation):
                 continue
+            if word not in self._word_vectors:
+                continue
             vec = np.copy(self._word_vectors[word])
             if word in counts:
                 vec *= counts[word]
@@ -127,12 +129,13 @@ class DialogEvaluator:
         return score
 
     def evaluate(self, previous, response, dialog=None):
-        score = self.correlation(previous, response, dialog)
+        score = self.correlation(previous, response, dialog)*2
         score += self._likelihood(response)
         score += DialogEvaluator.grammar_score(response)[0]
         return score > 4*0.6, score
 
 ########### JUST A TEST ############
+"""
 def main():
     ev = DialogEvaluator()
     previous = [
@@ -146,4 +149,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+"""
 
