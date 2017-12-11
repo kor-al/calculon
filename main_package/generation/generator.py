@@ -5,14 +5,16 @@ from collections import Counter
 import os.path
 
 
-class GenerativeModel(object, brain_name):
+class GenerativeModel(object):
     """ Abstract class for a generative model for text """
-    brain_name = brain_name + ".brain"
-    brain_questions_name = brain_name + "_questions.brain"
-    brain = None
-    brain_questions = None
-    question_prob = 0.3
-    similarity_min = 0.6
+    
+    def __init__(self, brain_name):
+        self.brain_name = brain_name + ".brain"
+        self.brain_questions_name = brain_name + "_questions.brain"
+        self.brain = None
+        self.brain_questions = None
+        self.question_prob = 0.3
+        self.similarity_min = 0.6
 
     def train(self, corpus, corpus_questions = None):
         self.brain = self._learn_corpus(corpus, self.brain_name)
