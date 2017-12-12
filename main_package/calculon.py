@@ -76,8 +76,16 @@ class Calculon:
 
             current = (current + 1) % 2 # change character
 
-        return '\n'.join(dialog)
-
+        return '\n'.join(Calculon.format_dialog(dialog, characters))
+    
+    def format_dialog(dialog, characters):
+        current = 0
+        formatted = []
+        for sentence in dialog:
+            sentence = characters[current].name + ": " + sentence
+            formatted.append(sentence)
+            current = (current + 1) % 2 # change character
+        return formatted
 
 def main():
     SHELDON = './data_scraping_subpackage/sheldon.txt'
