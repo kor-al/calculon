@@ -7,7 +7,7 @@ from nltk.translate.gleu_score import sentence_gleu
 import language_check
 import numpy as np
 import gensim
-from wordnet_evaluation import WordNet
+from evaluation.wordnet_evaluation import WordNet
 
 class DialogEvaluator:
     def __init__(self, word_model='./evaluation/google-w2v.bin'):
@@ -130,9 +130,11 @@ class DialogEvaluator:
         return score
 
     def evaluate(self, previous, response, dialog=None):
-        score = self.correlation(previous, response, dialog)*2
+        score = 0
+        score += self.correlation(previous, response, dialog)
         score += self._likelihood(response)
         score += DialogEvaluator.grammar_score(response)[0]
+
         my_wordnet = WordNet()
         wordnet_score = 0
         # iterate and evaluate current response with each of previous sentences in conversation
@@ -141,7 +143,7 @@ class DialogEvaluator:
         # take mean score
         wordnet_score = wordnet_score / (len(previous))
         score += wordnet_score
-        return score > 4*0.6, score
+        return score > 2.5, score
 
 ########### JUST A TEST ############
 """
