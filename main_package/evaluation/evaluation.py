@@ -9,18 +9,19 @@ import numpy as np
 import gensim
 
 class DialogEvaluator:
-    def __init__(self, word_model='google-w2v.bin'):
+    def __init__(self, word_model='./evaluation/google-w2v.bin'):
         """ Load Google's slim word2vec model """
+        print("- Loading Google's Word2Vec model")
         self._word_model = gensim.models.KeyedVectors.load_word2vec_format(word_model, binary=True)
         self._word_vectors = self._word_model.wv
 
     def _likelihood(self, sentence):
-        """ Return score between 0 and 10, indicating the sentence likelihood 
+        """ Return score between 0 and 1, indicating the sentence likelihood 
             TODO: use Bayes Classifier
         """
 
         #return self._word_model.score([sentence.split()])*10
-        return 0 # yet to implement
+        return 1 # yet to implement
 
     def _tf_weighted_sum(self, sentence, counts):
         """ Calculate the sum of the words of a given sentence translated into
@@ -40,6 +41,8 @@ class DialogEvaluator:
         vectors = []
         for word in word_tokenize(sentence):
             if word in stopwords.words('english') + list(punctuation):
+                continue
+            if word not in self._word_vectors:
                 continue
             vec = np.copy(self._word_vectors[word])
             if word in counts:
@@ -112,6 +115,7 @@ class DialogEvaluator:
                     self._tf_weighted_sum(previous, counts) - 
                     self._tf_weighted_sum(response, counts))
         
+        #TODO: scale down the weight as going back into the dialog history
         score += vect_dist/len(prev_sentences)
 
         #2) Sentence-level translation metrics (BLEU, GLEU)
@@ -125,13 +129,13 @@ class DialogEvaluator:
         return score
 
     def evaluate(self, previous, response, dialog=None):
-        score = self.correlation(previous, response, dialog)
+        score = self.correlation(previous, response, dialog)*2
         score += self._likelihood(response)
         score += DialogEvaluator.grammar_score(response)[0]
-        return score
-
+        return score > 4*0.6, score
 
 ########### JUST A TEST ############
+"""
 def main():
     ev = DialogEvaluator()
     previous = [
@@ -145,4 +149,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+"""
 
