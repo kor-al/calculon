@@ -1,0 +1,12 @@
+tqdm==4.17.1
+en_core_web_sm==2.0.0
+pandas==0.20.3
+language_check==1.1
+numpy==1.13.1
+nltk==3.2.4
+markovify==0.7.0
+gensim==3.1.0
+RAKE==1.0
+beautifulsoup4==4.6.0
+cobe==2.1.2
+tabulate==0.8.2
