@@ -107,6 +107,9 @@ def main():
 
         elif sys.argv[1] == "generate":
             print(calculon.generate(calculon.characters[0], calculon.characters[1]))
+        elif sys.argv[1] == "infinite":
+            while True:
+                print(calculon.generate(calculon.characters[0], calculon.characters[1]))
 
 if __name__ == '__main__':
     main()
