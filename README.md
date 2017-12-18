@@ -24,6 +24,7 @@ First of all, clone the repository from the current master:<br />
 Then move into the directory and install the requirements:<br />
 `$ cd calculon` </br >
 `$ python3 install requirements.txt`
+(you may need to install cobe from this pull request https://github.com/pteichman/cobe/pull/26 to support python3)
 
 Then if everything went well, you should be able to execute the program by: <br />
 `$ cd main_package` </br >
