@@ -1,0 +1,17 @@
+---DATALOADER---
+0- Import the DataLoader class
+1- Define an instance variable of DataLoader class
+2- compile_files() ensures that scripts for friends, bigbangtheory and house are available in form of text files.
+3- get_all_dialogues(character,series) can be used to get dialogues for any character from the 3 series
+4- get_conversations_with(character,series) can be used to get conversations of any character from the 3 TV shows.
+
+---SCRAPER---
+0- Import the Scraper class
+1- Define a Scraper class: myScraper = Scraper()
+2- Scraper is currently capable of handling 3 different series. Possible values for Series are 'friends', 'bigbangtheory', 'house'
+3- To compile a file with scripts of a series, call myScraper.compile_dialogues(series). If file already exists, please delete it in order to re-generate it.
+4- You can extract scripts for a series y providing the series name and url containing script: myScrapper.extract_dialogues(episodeURL, series)
+5- You can get a list of URLs containing scripts for a given series: myScrapper.get_URLs_episodes(series)
+
+---EXAMPLE EXECUTOR---
+Just execute the file to see how things work :)

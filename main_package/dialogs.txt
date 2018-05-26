@@ -1,0 +1,1942 @@
+- Initiating Calculon
+- Initiating DialogEvaluator
+- Loading Google's Word2Vec model
+- Adding model sheldon
+- Adding model house
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m telling you, Amy.
+house: Nowhere, I m, I m an addict.
+sheldon: Good, good, I m an engineer now.
+house: Either I'm right, I was feeling an emotion.
+sheldon: Except I have a feeling, I know it.
+house: No, you guys don t know anything.
+sheldon: Secondly, Star Trek I don t have company.
+house: Or that you know I don t cheat.
+sheldon: And I can t believe I have to.
+house: So, I can t believe that I.
+- Initiating Calculon
+- Initiating DialogEvaluator
+- Loading Google's Word2Vec model
+- Adding model sheldon
+- Adding model house
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Have you notified NASA?
+house: What I mean is, why are you wearing?
+sheldon: how are you doing in there?
+house: Possibility Why are you doing this?
+sheldon: Leonard, how are you doing that?
+house: Doctor Chase, how are you going to apologize?
+sheldon: You What are you going to confront Penny?
+house: Now, what are you going to stop her?
+sheldon: Now, Leonard, you know what that means?
+house: What I don t know what love is.
+- Initiating Calculon
+- Initiating DialogEvaluator
+- Loading Google's Word2Vec model
+- Adding model sheldon
+- Adding model house
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m sure he didn t.
+house: But I didn t do it for free.
+sheldon: If I didn t see it coming, either.
+house: My God, I can see your nipples.
+sheldon: You know I don t see that.
+house: And whichever they don t know that, too.
+sheldon: Plus, if I don t find repellent.
+house: That means you don t know!
+sheldon: Leonard, even though I don t feel bad.
+house: You think that I don t feel anything.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, you know what that is?
+house: Hello, that's why I came to talk to.
+sheldon: Alright, that s why it happens.
+house: Here s why I want to see them.
+sheldon: I see the prequel, I m aware.
+house: You want to see if he's right.
+sheldon: That I wouldn t want to do it.
+house: Well, you just don t want Cameron.
+sheldon: Wouldn t want to, but they don t.
+house: You want me to fire you, I did.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m obligated to do so.
+house: I m not going to do about it?
+sheldon: Look, you know I m not an elitist.
+house: No, because I m not happy.
+sheldon: You re Kirk, I m gonna do it.
+house: I m not going to do to me?
+sheldon: Good, good, I m getting.
+house: I kick, and I m getting confused.
+sheldon: I d say, I m using it.
+house: Perhaps using, I don't have syphilis.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Leonard, do you think their combined IQ is?
+house: Uh, listen, do you want to know.
+sheldon: So what do you want to say it?
+house: Maybe next time you want to think that.
+sheldon: No, I know you think you re weird.
+house: You don't need to know, have you been?
+sheldon: Now, I know that you have to guess.
+house: What you don t know the reason.
+sheldon: Oh, well you know, that is it.
+house: And that cactus, well, it s you.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m here in the room.
+house: You're here, and I ve been for days.
+sheldon: See, I ve got five more slides.
+house: I ve uh, I got it from here.
+sheldon: Very well, I ve found the problem here.
+house: Okay, well, let s make it fast.
+sheldon: Yes, oh, well, maybe it isn t.
+house: Yes, well, it was adorable.
+sheldon: Well, no, well, he lied.
+house: And that cactus, well, it s blood.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m obligated to do so.
+house: No, so you want to talk to me.
+sheldon: Yes, of course you have to offer.
+house: Mainly of course, there is no show.
+sheldon: My room, of course I m doing it.
+house: Mainly of course, I m assuming.
+sheldon: Uh, well, of course that s why.
+house: There, it s OK, I get that.
+sheldon: But don t get it, I always win.
+house: A, it is that it makes you sick.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m here in the room.
+house: Otis Campbell's got to be in the room!
+sheldon: Look, I have got to cut her loose.
+house: Right, I m going to cut you.
+sheldon: Yes, I m here in the laundry room.
+house: Yes, you were trying to kill the kid.
+sheldon: Stuart, what are you doing in there?
+house: No, there s going to stay.
+sheldon: Boy, you re going back.
+house: How re you going to stop me?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, but, oh goodie.
+house: Excuse me I have to, but not see.
+sheldon: Honestly, if it s not your day.
+house: The rest of the time, it s kosher.
+sheldon: Yes, but what if it s Jennifer Lawrence?
+house: Interesting question is, what s different?
+sheldon: You have to help, it s poster time.
+house: What am I going to do it, right?
+sheldon: And I m not going to do anything?
+house: I'm supposed to be there, cut it out.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: And what is my function as wingman?
+house: And what do you think she was doing?
+sheldon: You What are you going to go?
+house: People don t want you to focus.
+sheldon: Now, do you want to invoke Clause 209?
+house: What I mean is, why do you want?
+sheldon: How would I know, do you mean wrong?
+house: Oh, do you know I'm lying?
+sheldon: Oh, now, didn t I give them?
+house: Oh no, no I didn t say C.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m gonna do it.
+house: Is that No, I m not your boss.
+sheldon: Well, sorry, I m not meant to.
+house: I know, I, I m distracted.
+sheldon: I just don t know, I m paraphrasing.
+house: Oh I know, you were wrong.
+sheldon: Well, Mom, I m a biter.
+house: And I think I m not sleepy, Mummy.
+sheldon: I just, I m afraid it can t.
+house: Good thing I m not looking for trauma.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m, I m lost.
+house: Suddenly, I don't care if I m okay.
+sheldon: Frankly, if I m going.
+house: Frankly, I m getting hung up on.
+sheldon: Frankly, Mom, if I can do both.
+house: Frankly, I m, I m distracted.
+sheldon: And no thank you, I m smiling.
+house: No leave that, I m an insane genius.
+sheldon: When I was a genius, it s working.
+house: Is that No, I have not.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: He s an odd duck, isn t he?
+house: Then why didn t you tell me this?
+sheldon: They didn t have to take me.
+house: You really want me to tell me why?
+sheldon: Now, do you want to slide over one?
+house: Now, why would you do that again?
+sheldon: Okay, then why are you doing in there?
+house: So, technically Why are you doing this?
+sheldon: So what do you do, you just go?
+house: Well, I assume you re right.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m glad I told you.
+house: Of course, I m an idiot.
+sheldon: In fact, I m a delight.
+house: Relax, it s because I m not happy.
+sheldon: No, Penny, if it s not fine.
+house: Actually, I m fine, I d say
+sheldon: Well, sorry, I m glad.
+house: Well, it s not a head case?
+sheldon: He s not a spine, I ll scream.
+house: Hello, that's why it s not Lupus.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, do you have a card?
+house: Aren t you going to have to be?
+sheldon: For instance, when I have a credit card.
+house: And I'm going to have a year ago.
+sheldon: Very well, then, I have a work-around.
+house: Well, then why did you do that again?
+sheldon: Well, anyway, um, I do feel bad.
+house: Well what do you care from here?
+sheldon: Go, I ll take it from the top.
+house: How many do you want from me?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m afraid it can t.
+house: Sorry, I m not supposed to tell.
+sheldon: No, but I have to tell me something.
+house: Aren t you going to tell me why?
+sheldon: Don t look at me, I believe so.
+house: All I have to look at each other.
+sheldon: Yeah, look, I m responding to it.
+house: Yeah, but why are you talking to her?
+sheldon: Yeah, now, did you get the part?
+house: So, why are you talking?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m starting my own convention.
+house: Bad news is, I m fully stocked.
+sheldon: So good news, I just got this pen.
+house: She's not in pain, I know this story.
+sheldon: Oh no, no, I got Lincoln Logs.
+house: I, I think you know.
+sheldon: She s right, I think a birthday party.
+house: Oh god, I know you think you're sick.
+sheldon: Indigestion, I m sick, thank you.
+house: Right, I m, I m kidding.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, I think you should.
+house: No, you said I had to moisturize twice.
+sheldon: Sure you can, you re getting up there.
+house: Sure, you say that, you re good.
+sheldon: What would you say that you re eating?
+house: Very useful, did you just say that?
+sheldon: Oh, Leonard, you hear that, Leonard?
+house: Oh, do you know what else wouldn't hurt?
+sheldon: Oh, did you do that, can I?
+house: Oh, he s gonna do this for love.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, how are you doing that?
+house: Well, how old are you, Thirteen?
+sheldon: Well, Howard, that s nonsense.
+house: Well, how old are you, my mom?
+sheldon: So, I m sorry, are you there?
+house: Question is, are you out of your minds?
+sheldon: Yeah, no, you ve made your point.
+house: Yeah, why would you do that?
+sheldon: Yeah, oh, they re out of tea.
+house: Yeah, they re dying, Moron.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: And finally, area rugs, pro or con?
+house: And what do you do on Saturday nights?
+sheldon: And how do you know what that means?
+house: Well, then why did you do that?
+sheldon: well, no, you know why I hedged.
+house: So why do you want a reason?
+sheldon: I wouldn t want to know that!
+house: Come on, do you want from me?
+sheldon: For future reference, if I want to do.
+house: I, you know me, I want sleep!
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m glad to see you.
+house: Unless you want to, I m assuming literally.
+sheldon: Interesting, do you want to slide over one?
+house: Interesting question is, why are you talking?
+sheldon: Ha-ha, I m done talking about it.
+house: Don't worry, I'm not talking about your breasts.
+sheldon: What would you like to talk about, Leonard?
+house: Ergo, you are you need to do.
+sheldon: That I wouldn t want to hug you.
+house: Unless you want to, I m shocked!
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m trying not to defecate.
+house: Either way, I'm not talking fever here.
+sheldon: Either way, I want to make sure.
+house: Did you want to make things right?
+sheldon: Well, Leonard, you want to do that?
+house: Well what do you care from here?
+sheldon: Yes, I m sure you do suck.
+house: Actually, I m not going to do?
+sheldon: You What are you going to say it?
+house: Possibility Why are you telling me?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, you want to go?
+house: And you want to, I m coming with.
+sheldon: My goodness, do you want us to do?
+house: So you going to do that, did you?
+sheldon: how are you going to help me?
+house: Now, if you re going to want to.
+sheldon: Uh, do you want us to do?
+house: Do you want to puke, how are ya?
+sheldon: how are you going to check your messages?
+house: Whatever you do, but there are some treatments.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m here for you.
+house: Sir, are you here at gunpoint?
+sheldon: Sir, I have to stay right here.
+house: Sir, I need to see the fish.
+sheldon: And I think I need to tell you.
+house: For people, we have to tell her something.
+sheldon: People, people, we re rooting for you.
+house: I assume we can t tell you anything.
+sheldon: Um, can I ask you, is there?
+house: Um hmm, and you have to be cancer.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m trying not to defecate.
+house: Besides, I was trying to make up.
+sheldon: Besides, I m really happy for you.
+house: Besides, I was wrong is not a diagnosis.
+sheldon: You said I m sorry, this is chaos.
+house: Excellent, I m Thank you. Imagine that.
+sheldon: Oh yes, I m down to seven friends.
+house: Sorry, I m trying to figure this out.
+sheldon: Even now, I m shocked by this betrayal.
+house: You want me to, I m so scared.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, you want to go?
+house: No wonder you want to think that.
+sheldon: Excuse me, you have to do it right.
+house: Look I know you re right, you win.
+sheldon: But all right, I do feel bad.
+house: Thirteen, make sure I don t feel bad.
+sheldon: Well, if I don t recognize your edge.
+house: Well I guess it s not like you.
+sheldon: Well, if he does, do you mean!?
+house: I mean, why would you do that again?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m trying not to defecate.
+house: Hi, Jodi, I m, I m Greg.
+sheldon: Uncle Carl said, I m very congested.
+house: And I think I m not stopping.
+sheldon: Hmm, well, I m going there anyway.
+house: Actually, I m not going to tell her?
+sheldon: Because I m trying, I m coming.
+house: Actually, I m not going to tell Cuddy?
+sheldon: And do you know I m not there?
+house: Jodi, I m saying we did.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Wil Wheaton, it was unnecessary.
+house: Hello, that's why it s not hemorrhoids.
+sheldon: That, that s why you re confused.
+house: Uh, I think that was Hitler s excuse.
+sheldon: Good, Penny, it was hard for me.
+house: Good, cause I had a bad lawyer.
+sheldon: It would, but you re the bad guy.
+house: Love to, but I changed.
+sheldon: And I don t need to be changed.
+house: Yeah, but they just don t want it.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, but you ll never learn.
+house: Yeah, but why would you be frightened?
+sheldon: Yeah, tell me, do you mean wrong?
+house: What, do you want a reason?
+sheldon: What, you re getting angry again.
+house: What you don t want you to stay.
+sheldon: No, I just don t want a party.
+house: Well, you just don t want any relationships.
+sheldon: Well, if I don t appreciate it.
+house: Well, on the one hand, you've got.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m trying not to defecate.
+house: Nowhere, I m, I m going already.
+sheldon: No, and I was going to.
+house: Second come on, I was concerned.
+sheldon: Penny, hold on, I m sick.
+house: OK, I m getting hung up on insulin.
+sheldon: Look I m sorry, that s hurtful.
+house: And I think I m not into that.
+sheldon: And no, I m selling this.
+house: Sorry, I m guessing an old black guy.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, how are you doing that?
+house: That s Portuguese, you know how to honeymoon.
+sheldon: And do you know what s not normal?
+house: And you don t know Jane Doe 2.
+sheldon: You know, Penny, if you didn t.
+house: Then you didn t even know her.
+sheldon: Neck massage, then you don t know about.
+house: Please tell me I don t, you know.
+sheldon: Well, no, don t believe it.
+house: Thirteen, make sure I don t cheat.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, how are you doing it?
+house: Well, how old are you, Thirteen?
+sheldon: Well, now, do you have?
+house: Cause Well, I know you love your wife.
+sheldon: Well, then you don t get sarcasm.
+house: Sure you don t think I was doing?
+sheldon: Sure you can, you re out of tea.
+house: And I think you re being lied to.
+sheldon: Yeah, but now you re being selfish.
+house: Inside of us, but I don't want you.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, President Siebert, I don t!
+house: Apparently, you know I don t sleep in.
+sheldon: Sometimes I don t mean to offend you.
+house: Interesting question is, why don t you?
+sheldon: Interesting, do you have a sword collection?
+house: Interesting question is, what do we do now?
+sheldon: Well, now, don t do that.
+house: Am I going to do anything, are you?
+sheldon: You What are you going to confront Penny?
+house: Excellent, I m not going to collapse.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, President Siebert, I don t say.
+house: Foreman, make sure I don t feel anything.
+sheldon: Okay, then why don t I believe you?
+house: For instance, I don't believe in the afterlife.
+sheldon: For instance, when I m going there anyway.
+house: Who thinks I m not going to do?
+sheldon: But now I m going to wet myself!
+house: You think I was going to do anything?
+sheldon: Just when I think I d be incensed.
+house: So why do you want to be here?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Amy Farrah Fowler, that s funny.
+house: Hello, that's why it s not a metaphor.
+sheldon: Hello, Leonard, you want to do that?
+house: So, how do you want to say?
+sheldon: So, do you think their combined IQ is?
+house: How many do you think of?
+sheldon: Now, if you wouldn t do that anymore!
+house: Listen to me do you have a list?
+sheldon: Even I don t do that!
+house: If I do that, do you ask them?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m glad I told you.
+house: I just told you that I had to.
+sheldon: Honestly, if I had to take the bus.
+house: Personally, I think I've had enough.
+sheldon: Personally, I think there s a third option.
+house: Personally I don t have AIDS.
+sheldon: Eventually, I realized I don t believe it.
+house: Oh, and I realized that you re right!
+sheldon: Play your cards right, I think so.
+house: No, right, because it was so lame.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m obligated to do so.
+house: Please, I thought you d be obligated to.
+sheldon: Please, Penny, don t wake her.
+house: Please, I thought it would be more enticing.
+sheldon: Well, sorry, I thought he didn t.
+house: Oh, didn t you tell me Why not?
+sheldon: Yes, but I didn t exclude him.
+house: Yes, why didn t you tell me this?
+sheldon: You didn t have to tell you that.
+house: Which means you didn t, you don t.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Captain, what are you in for?
+house: The important question is, what s different?
+sheldon: You know what, that s fantastic.
+house: Oh, how do you know her name?
+sheldon: Oh hello, Penny, that s fantastic.
+house: Oh, that s the only way.
+sheldon: Oh, uh, hang on, look at me.
+house: Oh, by the time we get to it.
+sheldon: There s a good idea, get your rest.
+house: Soften your skin, and the rest of it.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Wil Wheaton, it was an eternity.
+house: Hello, that's why it s not insulting.
+sheldon: And I m sorry, this is highly insulting.
+house: Sorry, I m, I m wasted.
+sheldon: Oh, Lord, I m thinking about trains.
+house: Don't worry, just one thing I m not!
+sheldon: Hey, fellas, I m just disappointed.
+house: Stop, I m not talking about the nausea.
+sheldon: But, um, I m the guy.
+house: I m not going to do anything?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: You mean, like that high-pitched, irritating laugh?
+house: I mean, what do you think this happened?
+sheldon: How would I know, do you mean wrong?
+house: I thought she told you, I mean Chase.
+sheldon: Speaking of which, do you mean by that?
+house: Well what do you do on Saturday nights?
+sheldon: Well, see, what do I do?
+house: Philosophical question: how do you know about that?
+sheldon: Well, what do you have the enchanted sword?
+house: Well what do you do on Saturday nights?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, I don t have company.
+house: What I don t have to go anywhere.
+sheldon: Even I don t get sarcasm.
+house: Look, I know, because I don t.
+sheldon: Anyway, I suppose I don t blame you.
+house: At least, that s right, I suppose.
+sheldon: Although, I suppose I don t say.
+house: Actually, why don t you just say that?
+sheldon: Now, Leonard, don t you look excited?
+house: How did you know I don t vote.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m starting my own convention.
+house: Sorry, I m thinking steak.
+sheldon: Which, if I m going there anyway.
+house: Obviously, I don't care if I m okay.
+sheldon: And I m not going to do anything?
+house: No, because I m not sleepy, Mummy.
+sheldon: And no, I m gonna need more force.
+house: You think I m not using drugs anymore.
+sheldon: Amy, don t you think I m funny?
+house: What I mean is, why don t you?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, you want to talk about?
+house: So, how do you want to tell us?
+sheldon: Then buckle up, you can t tell Leonard.
+house: So you going to tell me why?
+sheldon: I believe I have to tell me something.
+house: Well, what do you have to tell me?
+sheldon: Well, Leonard, you want to do?
+house: And you want to give her anything is.
+sheldon: Speaking of cowboys, do you want, mom?
+house: Well, you want to live in this country.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: You What are you suggesting?
+house: As a doctor, What are you, Martin?
+sheldon: All right, are you in for?
+house: Oh, are you gonna take another two months?
+sheldon: Oh, Leonard, do you have for breakfast?
+house: Oh well, you re right, I was.
+sheldon: Oh, well, well, did you and Leonard?
+house: Oh, do you want to go?
+sheldon: And I wouldn t want to hug you.
+house: Actually, why don t you have to pay?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, you want to go?
+house: What, do you want from me?
+sheldon: But, Mom, if I want to do.
+house: But you don't know, do you know CPR?
+sheldon: Just so you know, there s Leonard.
+house: You know, I know, see ya.
+sheldon: Flash, how do you know anything about physics?
+house: All you know about this, but you did.
+sheldon: But you don t know, two, three!
+house: Yes, I know what s causing it.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, I m ridiculous.
+house: Okay, I m, I m hallucinating.
+sheldon: Yeah, Amy, I have been hallucinating lately.
+house: If I can t, I m hallucinating!
+sheldon: If I were you, I think so.
+house: Oh God, you re gonna fold.
+sheldon: Oh God, oh, please, you know.
+house: Oh, do you think that?
+sheldon: So, do you think I m doing?
+house: So, technically Why are you doing that?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: And I m not using the facilities?
+house: I m not going to tell me this?
+sheldon: Because I m not asking for me, too.
+house: But now it s not the food.
+sheldon: Ooh, look, I think that s funny.
+house: Ooh, I was hoping.
+sheldon: Ooh, hey, oh, wait, stop that.
+house: Wait, wait, I didn't say when.
+sheldon: Well, oh, wait, I found something.
+house: Me, I m coming down with something.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Uh, can you identify our cricket?
+house: No, but I can t diagnose you.
+sheldon: : No, you re mad at me.
+house: Under New Jersey law, you re good.
+sheldon: Oh, Leonard, you may change your mind.
+house: Oh, do you want a reason?
+sheldon: Oh, you want to go to Jewish heaven?
+house: Oh he's going to have a life.
+sheldon: I m going, and you have to offer.
+house: So, what are you going to trust them?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, I ve seen.
+house: Okay, okay, I m thinking steak.
+sheldon: Um, yeah, yeah, okay, okay, sure.
+house: And, yeah, well, it is business.
+sheldon: Um, yeah, this is, but I jaywalked.
+house: So, yeah, well, it is.
+sheldon: Well, yeah, yeah, this is truly remarkable.
+house: Actually, technically, yeah, yeah, I'm right.
+sheldon: Howard: Oh, yeah, yeah, well, anyone.
+house: Oh, yeah, I know you were busy.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, President Siebert, I don t!
+house: Or maybe I don t give guarantees.
+sheldon: I don t understand, are we?
+house: This is why I don t like anybody.
+sheldon: Well, then why don t I?
+house: Oh God, don t have a heart.
+sheldon: Well, then you don t need another one.
+house: No, because I don t like anybody.
+sheldon: No I don t mean to offend you.
+house: Gregory, and you shouldn t be here.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m here.
+house: Excellent, I m the one who didn't confess.
+sheldon: When I was a child, I m glad.
+house: Because now, I m lying.
+sheldon: Oh yes, I m in your hands.
+house: OK, I m sure it s not anthrax.
+sheldon: I d say, I m the guy.
+house: Now, you see, I m an addict.
+sheldon: Mom, I m being taken against my will.
+house: Listen, I m off the clock.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m afraid I m going.
+house: Problem is, I m a jerk.
+sheldon: Although, I must admit, I m Sheldon.
+house: Me, I m not gonna die, boring.
+sheldon: Yes, well I m not clear why.
+house: Frankly, I m, I m gonna cooperate.
+sheldon: Leonard, what if I m not there?
+house: Me, I m not stopping.
+sheldon: Anyway, when I m not mad at me.
+house: Actually, I m not going to tell her?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m trying not to defecate.
+house: But I m not tough, I m saying.
+sheldon: I m saying it, I don t guess.
+house: I m not going to do to me?
+sheldon: Wrong, they ll know I m not here.
+house: You didn't want me to, I m assuming.
+sheldon: Please understand that I m not paying.
+house: Nowhere, I m a real good reader.
+sheldon: But all right, I m a real collector.
+house: But if you re okay, I m wasted.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: So, Leonard, where are we going?
+house: Oh, are you supposed to be a girl?
+sheldon: How are you going to be here?
+house: But I'm going to cut your head open.
+sheldon: No, what I m going to pack.
+house: But I'm going to do my part.
+sheldon: Leonard, you are going to be there.
+house: Hey honey, how are you going to believe?
+sheldon: What are you going to answer it?
+house: Whatever the answer is, you don't need me.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, I ve never touched Stuart.
+house: We need you to come with you.
+sheldon: Oh please, you don t need him.
+house: I could, but I need your wife's heart.
+sheldon: Well, no, I need no introduction.
+house: Now I need a lot of consonants.
+sheldon: Yes, Penny has a lot of Band-Aids.
+house: Yes, well, she s interested in you.
+sheldon: Hey, well, look at me, initiate.
+house: Oh, great, well, I can leave early.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m sad I didn t.
+house: None, but you didn t believe it.
+sheldon: Gentlemen, if I didn t really type.
+house: But you didn t, you don t move.
+sheldon: Don t hurt us, don t believe you.
+house: Actually, why don t you take a stand?
+sheldon: Leonard, even though I don t make noise.
+house: Right, because I don t sleep in.
+sheldon: Right now, I see why you re here.
+house: Here s why I m going in now.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, I m dying.
+house: So I need you, go to sleep angry.
+sheldon: I ve got to go, it was unnecessary.
+house: Well then, you got to the airport.
+sheldon: Well alright, but I don t make noise.
+house: Question is why I don t lie.
+sheldon: Please, no, don t operate heavy machinery.
+house: What I mean is, why don t you?
+sheldon: Oh no, no, don t help.
+house: Listen, I don t, you don t!
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, sir, no, wait.
+house: Uh, no, wait, you can do tonight.
+sheldon: Yeah, wait, no, don t help.
+house: They tell me no, but you don t!
+sheldon: Exactly, but we don t play this game.
+house: Actually, why don t you like Foreman?
+sheldon: Oh, okay, I can t help you.
+house: What I don t do this.
+sheldon: No, but I won t need this.
+house: Whatever I said, You can t trust people.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, President Siebert, I don t guess.
+house: Like I don t, I can accept that.
+sheldon: Yeah, which I don t do that anymore!
+house: Yeah, that s why you don t move.
+sheldon: Yeah, now, do you have to offer?
+house: He didn t have to worry about, sweetie.
+sheldon: Leonard, what do you have company?
+house: Did you want to do this job, remember?
+sheldon: Leonard, what do I do with this one?
+house: Sorry, can t do this just for her.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, do you have a moment?
+house: Problem is, you ve been a big help.
+sheldon: And to help us, I m a biter.
+house: Actually, why don t you have to pay?
+sheldon: Actually, yes, of course he is.
+house: Actually, no, I don t mean us.
+sheldon: Well, sir, no, don t make noise.
+house: This is better, don t have a heart.
+sheldon: You don t see it, do you have?
+house: Well, obviously I didn t have a job.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m here for you.
+house: Ya know, I m fine.
+sheldon: I m fine, I don t get defensive.
+house: That s OK, I m gonna miss it.
+sheldon: No, now that I m gonna do it.
+house: But that s because I m not okay.
+sheldon: Because I m a problem-solver, it s fun.
+house: Bad news is, I m smacking her.
+sheldon: Because you don t think I m running?
+house: No, it means I don t paralyze you.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, I m, I m home.
+house: Mandingo, you re saying I m not busy.
+sheldon: Very well, then, I m dying.
+house: Either he s dying, but there s something.
+sheldon: But I must say, I m dying.
+house: Oh, well, let s say that's true.
+sheldon: Yeah, no, well now, there s wine.
+house: Yeah, and I need your son.
+sheldon: All right, well, I m your son.
+house: I m late, I was being rude.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m here in the room.
+house: Cause Well, I m fully stocked.
+sheldon: Personally, I think I m going there anyway.
+house: Personally, I think it s a deal.
+sheldon: And I think I ll be right back.
+house: Uh, no, I, I m fully stocked.
+sheldon: And no, I need a word with Hofstadter.
+house: And by good, I, I m Greg.
+sheldon: Good, good, I m paraphrasing.
+house: 8: 00, I m just that committed.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, President Siebert, I don t jibber-jabber.
+house: Mark is, and I don t lie.
+sheldon: But if I don t have a girlfriend?
+house: But then they don t want any relationships.
+sheldon: Well, sir, no, don t help.
+house: You don t need a bone marrow aspiration.
+sheldon: Yeah, but we don t need a vacation.
+house: The real question is, why don t you?
+sheldon: You don t see it, do you mean!?
+house: If I don t, I m so scared.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, how are you doing that?
+house: Me, I m the one doing the staring.
+sheldon: Who Con, you re doing it for me.
+house: So, technically Why are you doing this?
+sheldon: Uh, you re doing it, and there.
+house: Possibility Why are you doing that?
+sheldon: Leonard, how are you doing down there?
+house: Second of all, there s going to stay.
+sheldon: What are you going to answer it?
+house: So, technically Why are you doing down here?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, I don t usually change.
+house: Personally I don t, you don t move.
+sheldon: We don t want you to tell me.
+house: Question is why I don t vote.
+sheldon: Well, then why don t I?
+house: Well, then why did you do the test?
+sheldon: Well, see, what do I do that?
+house: Eh, so you need to do some tests.
+sheldon: Eh, well, I don t find repellent.
+house: So, did you find that doesn t?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m really happy for you.
+house: Jodi, I m professional, but I can.
+sheldon: I did, but I m the bigger man.
+house: I m House, I m gonna cooperate.
+sheldon: You know, when I m going with it.
+house: if you re okay, I m kidding.
+sheldon: Uh, when I m not kidding.
+house: Relax, I m getting dumber.
+sheldon: Oh yes, I m an engineer now.
+house: Admittedly, it s OK, I m sure.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, President Siebert, I don t guess.
+house: Cause Well, I guess that could be insulting.
+sheldon: But don t worry, this is highly insulting.
+house: Pushing it, but we don t diagnose her.
+sheldon: Really don t care, it s ten.
+house: Or it doesn t, it s obvious.
+sheldon: You don t get it, do you mean?
+house: Or maybe I don t need around here.
+sheldon: I suppose I don t share with anyone.
+house: Cause Well, I obviously can t be here.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Squeaky wheel gets the grease?
+house: If you do, but you get the grease.
+sheldon: Okay, now, but do you think, Howard?
+house: Hmm what do you think she was doing?
+sheldon: Leonard, what do you have a sword collection?
+house: Then you said, I have a sword.
+sheldon: I Excuse me, you have to get this.
+house: Excuse me I have to tell him no.
+sheldon: I Excuse me, that s easy enough.
+house: Excuse me I have to do anything about.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, you know what s comfortable?
+house: Look, I know it s pancreatic.
+sheldon: As I m sure you know, come on!
+house: Right now, I m an insane genius.
+sheldon: Right now, I m done hiding from bullies.
+house: Sorry, you re saying I m not involved.
+sheldon: Um, Penny, we re having right now.
+house: Yes, I am not having a psychotic break.
+sheldon: All right, are you having a stroke?
+house: So, why are you talking this time?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m, I m paraphrasing.
+house: Is that No, I m just an employee.
+sheldon: No, Penny, that s preposterous.
+house: Well, I know that, you dirty birdie.
+sheldon: He s right, I m paraphrasing.
+house: I, I m sure not pulling my weight.
+sheldon: As I m sure you know, revering me.
+house: I, I m just the Zone delivery guy.
+sheldon: There s no point, I just got back.
+house: There, you just don t know!
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, but your face looks angry.
+house: Yeah, but she's got a problem with SAC.
+sheldon: I was, but I need wood.
+house: He signed it, I need a refill.
+sheldon: Focus, Leonard, I have something for you.
+house: She insults you, you should get a sample.
+sheldon: Oh, but if you re menstruating.
+house: Oh, great, well, if you want.
+sheldon: Howard: Oh, yeah, yeah, well, then.
+house: Oh, sweet of you to take a nap.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Koothrappali, would you care to join the conversation?
+house: Uh, no, you would have believed me!
+sheldon: Now, do you want me to share credit?
+house: Anything else you want to be a rebel?
+sheldon: And how are you going to be sarcastic?
+house: He doesn t need to be sarcastic.
+sheldon: And how are you going to be sarcastic?
+house: As a doctor, how do you want me?
+sheldon: As a result, I m begging you.
+house: Actually, I m not going to poll Chase?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Wil Wheaton, it was never off.
+house: Listen, it s OK, we re busy.
+sheldon: Well, well, if we chat, it will.
+house: Yes, well, it was something he ate.
+sheldon: Ah, well, of course he s right.
+house: Yes, well, that s her new fantasy.
+sheldon: Wait, no, well, that s easy enough.
+house: Wait, wait, wait, I mean pistols.
+sheldon: Now, wait, no, we re in.
+house: Wait, wait, wait, that was all me.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Speaking of which, do you mean by that?
+house: You know nuns, what do we do now?
+sheldon: As I m sure you know, come on!
+house: Oh, hey, hey, come on!
+sheldon: Oh, do we have a moment?
+house: For a moment there, I get nicer.
+sheldon: Oh, wait, no, there are.
+house: Oh no, wait, wait, I mean Amber.
+sheldon: No, wait, wait, uh, Star Trek.
+house: Wait, wait, wait, you can have it.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m trying not to defecate.
+house: Right, I m not using drugs anymore.
+sheldon: Yes, and do you know I m not?
+house: There, you just don t know them.
+sheldon: So what do you do, you just go?
+house: If you don't know, do you know CPR?
+sheldon: So what do you see the problem?
+house: Well, you know what they have to.
+sheldon: So what do you have a nice time?
+house: Well what do you want from me?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: I m sorry, are you having a stroke?
+house: What, you don t think I was doing?
+sheldon: Okay, then why don t I believe you?
+house: Well, then why did you do wrong?
+sheldon: Okay, now, did you get the part?
+house: How do we get to the point, right?
+sheldon: So what do you do, you just go?
+house: Come on, what did you do to her?
+sheldon: We don t know what you do, too.
+house: Good, I thought you didn t know me.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, I m, I m fine.
+house: Okay, okay, I m trying my best.
+sheldon: Okay, okay, okay, okay, okay, sure.
+house: Okay, okay, I m not happy.
+sheldon: Now, okay, okay, I never give up.
+house: Okay, okay, I m vulnerable.
+sheldon: Now, okay, I can do about it.
+house: if you re okay, I m wasted.
+sheldon: Yeah, okay, okay, I can demonstrate.
+house: Oh, okay, I m so hungry.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, I m hungry!
+house: Cause Well, I m wasted.
+sheldon: Well, sorry, I can go much longer.
+house: Oh, so you want me to go to?
+sheldon: FYI, if you want to put on slacks.
+house: Do you want to take the edge off?
+sheldon: Amy, what do you want us to do?
+house: Did you want to take the case?
+sheldon: Leonard, you want to go to Jewish heaven?
+house: Hmm what do you think I've been doing?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m here in the room.
+house: Hi, I m, I m actually impressed.
+sheldon: Very well, I m the guy.
+house: But I m not tough, I m off.
+sheldon: Ha-ha, I m relieved you re not butter.
+house: Cause Well, I m right with you.
+sheldon: Yeah, of course I m busy.
+house: Mainly of course, I m lying.
+sheldon: Well, I mean, of course we do.
+house: Of course, maybe it s not personal.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m obligated to do so.
+house: Relax, I m getting hung up on.
+sheldon: Now, now, see, I m smiling.
+house: Now, I don't have a choice.
+sheldon: Yeah, I had no choice, Leonard, look.
+house: Well, I know you look both ways.
+sheldon: Hmm, well, look at that.
+house: Oh, great, well, that s pretty stupid.
+sheldon: Um, well, did you do that?
+house: Oh, well, it was so lame.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, I m really not.
+house: But, no, you see, I m vulnerable.
+sheldon: Howard, if I m a biter.
+house: Good thing I m not a baby.
+sheldon: Emily, as I m not giving it away.
+house: Listen, I m not stopping.
+sheldon: Well, what if I m not?
+house: But what if it s not a tumor.
+sheldon: Anyway, if it s not a great question.
+house: Oh, great, well, it s a trick.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m starting my own convention.
+house: No, you re saying I m not.
+sheldon: The fact that I m not being stupid.
+house: Hey, I m right if he starts walking.
+sheldon: Alright, I m actually more of a theorist.
+house: I m not going to tell me?
+sheldon: Alright, let me tell you, I know.
+house: Noble of you to tell you something privately.
+sheldon: Although, Amy and I ll tell you why.
+house: You think I was going to do anything?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m, I m lost.
+house: Hi, I m, I m getting Philly.
+sheldon: Uh, yes, I m getting.
+house: I get better, I m hallucinating.
+sheldon: You, oh, I have been hallucinating lately.
+house: Bad news is, I m hallucinating!
+sheldon: As your tertiary friend, I m on fire.
+house: Just be a minute, I m not!
+sheldon: In fact, if you think I m hysterical.
+house: Frankly, I m a druid.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m, I m home.
+house: Right now, I m not curious.
+sheldon: Never mind, I m still in the room.
+house: No leave that, I m off the clock.
+sheldon: Actually, I m here in the room.
+house: His name is not Wilson, I m off.
+sheldon: Look, I m sorry, are you there?
+house: I, I m sorry, I missed that.
+sheldon: You know, I m sorry, are you?
+house: Frankly, I m sorry, it s Gregg.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m here in the room.
+house: Hi, Jodi, I m right with you.
+sheldon: I was, but I m a genius.
+house: Hi, Jodi, I m so relieved!
+sheldon: Oh yes, I m relieved you re not.
+house: Apparently, that s why I m so relieved!
+sheldon: Besides, I m relieved you re not butter.
+house: Besides, I was in a coma.
+sheldon: Besides, I m begging both of you.
+house: Besides, I was in the middle.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Spending three months at the North Pole?
+house: Issue three, how do you know I'm lying?
+sheldon: Um, uh, what do you want, mom?
+house: What, do you know why she thinks that?
+sheldon: What, you re fun to look at.
+house: See, that s why you lost your skin.
+sheldon: Oh, did you do your medical internship?
+house: Better question is why do you do?
+sheldon: But as I m sure you do suck.
+house: If you really think I m a jerk?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Amy Farrah Fowler, that s true.
+house: Straight from the bladder, that s the definition.
+sheldon: Aw, now I have to void my bladder.
+house: Aw, that is what I gave her.
+sheldon: Honestly, what do I do that?
+house: Question is why I don t do speeches.
+sheldon: Well alright, but I won t say that.
+house: Well what do you do that again?
+sheldon: And again, I ll do it.
+house: And what do you do that again?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: What did they feed the lions, Mother?
+house: What I don t remember hiring my Mother.
+sheldon: Come on, Mother, you know that.
+house: Come on, do you think of?
+sheldon: No, but I think you mean consistency.
+house: Is that No, I mean his two hemispheres.
+sheldon: Speaking of cowboys, do you mean by that?
+house: I mean, that s not the food.
+sheldon: No, but if you re a mean person.
+house: I mean, why would I do this now?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Leonard, you know what s comfortable?
+house: The important question is, what s killing him?
+sheldon: And do you know what s comfortable?
+house: Well, that s what I d do.
+sheldon: Well, now, do you want, mom?
+house: Well what do you do?
+sheldon: And thank you, I do it for me.
+house: No, I know I told you I Cool.
+sheldon: Hmm, what do I know about Amy?
+house: Hmm what do you do that again?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, I think less of me.
+house: Or it's your family, I think you're lying.
+sheldon: Oh, then I think you ll be happy.
+house: Then you're going to be happy here.
+sheldon: Howard, if you wouldn t be living here.
+house: Or, are you supposed to be a rebel?
+sheldon: Really, you re supposed to use the bathroom.
+house: Question is, are you supposed to be nurturing?
+sheldon: You pushed it, are you having a stroke?
+house: As a doctor, What are you wearing?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m here in the room.
+house: Hi, I m, I m wrong.
+sheldon: Amy, it s possible that I m aware.
+house: I'm aware that this is what it is!
+sheldon: You said I m sorry, this is hard.
+house: And I think I m a loser.
+sheldon: And I ask you, is it worth it?
+house: He s not a date, it is business.
+sheldon: Ah, it s rustic, it s ten.
+house: Ah, mm, yeah, it is a fantasy.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello to you, I ve got the answer.
+house: Also, I'm gonna give you a reward.
+sheldon: No, I suppose that s a good Amy.
+house: You think you re right, I suppose.
+sheldon: He s right, I suppose that works.
+house: Good news is I was right, I suppose.
+sheldon: They re right, I suppose it s appropriate.
+house: They do what you think that s relevant.
+sheldon: They, uh, I d want to talk.
+house: Just talk to me, I m right.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m glad to see you.
+house: Hi, I m calling you to tell us.
+sheldon: Hi Rebecca, I m telling you, Amy.
+house: Actually, I m not going to tell her?
+sheldon: Wouldn t want to tell you that much.
+house: Aren t you going to have to be?
+sheldon: And how are you going to do anything?
+house: Man, you re going to a medical conference.
+sheldon: You What are you going to help me?
+house: What, you want to know how I feel?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Wil Wheaton, it was worth it.
+house: If she doesn t, it s okay.
+sheldon: No, yeah, okay, I can demonstrate.
+house: Ah, mm, yeah, it is a fantasy.
+sheldon: No, yeah, yeah, well, he lied.
+house: Cause Well, I have a case, yeah.
+sheldon: Well, yeah, yeah, I don t dance.
+house: Actually, technically, yeah, it is a symptom.
+sheldon: Um, yeah, yeah, I don t deserve.
+house: I realize, technically, yeah, it is business.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m starting my own convention.
+house: Hi, I m getting hung up on insulin.
+sheldon: Oh, come on, I m begging you.
+house: Two weeks from now, I m Gregory House.
+sheldon: Look at that, even when I m going.
+house: I m not going to tell me why?
+sheldon: But as I m not going home.
+house: Now, I m not curious.
+sheldon: Well, what if I m not there?
+house: Who thinks I m not going to do?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m telling you, Amy.
+house: So, technically Why are you telling me?
+sheldon: I m telling you, this is fun one.
+house: Possibility Why are you telling me?
+sheldon: You re welcome Excuse me, are you fertile?
+house: Excuse me I have to look at me.
+sheldon: I Excuse me, I am overwhelmed.
+house: Excuse me I have to make the call.
+sheldon: You re welcome Excuse me, may I interject?
+house: Excuse me I have to do.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hi Rebecca, I m trying not to defecate.
+house: I m not going to tell me?
+sheldon: I m saying it, I ll come a-knocking.
+house: And, I m saying you d be wrong.
+sheldon: Very well, I m using it.
+house: I m not going to tell me?
+sheldon: Ira, if I m going to mean it.
+house: Right, it s clearly not going to collapse.
+sheldon: Hey, look, clearly, it s probably true.
+house: Then I had to make you look fat.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Amy Farrah Fowler, that s okay.
+house: Hello, that's why it s not definitive.
+sheldon: Hey, fellas, I m not the best.
+house: Okay, it s lumpy I m going in.
+sheldon: Wrong, they ll know I m not Sheldon.
+house: Actually, I m not going to do?
+sheldon: It s just, I was going chronologically.
+house: We're not going to give him a call.
+sheldon: You know I m not clear why.
+house: Broke her arm, I think I m not.
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
+(Dialog length 9/10)
+sheldon: Hello, Wil Wheaton, it was literature.
+house: If I'm right, I was being rude.
+sheldon: Otherwise, you re being a little rude.
+house: Yesterday, you hate me, you re married.
+sheldon: Sure you can, you re welcome.
+house: I, I think you re right!
+sheldon: I get it, you re only 50.
+house: She's a good doctor if you re right!
+sheldon: I d say, I m good to go.
+house: Which I How d you get the key?
+(Dialog length 1/10)
+(Dialog length 2/10)
+(Dialog length 3/10)
+(Dialog length 4/10)
+(Dialog length 5/10)
+(Dialog length 6/10)
+(Dialog length 7/10)
+(Dialog length 8/10)
